@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La Meva Aplicació</string>
+    <string name="action_settings">Configuració</string>
+    <string name="message">Hola Món!</string>
+    <string name="button">Botó</string>
+    <string name="textotoast">Estem aprenent Android :)</string>
+    <string name="flag">Bandera</string>
+</resources>

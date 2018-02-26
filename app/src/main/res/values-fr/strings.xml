@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="message">Bonjour Le Monde!</string>
+    <string name="button">Bouton</string>
+    <string name="textotoast">Nous apprenons Android :)</string>
+    <string name="flag">Drapeau</string>
+</resources>
